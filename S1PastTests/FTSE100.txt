@@ -1,0 +1,300 @@
+3i Group PLC
+890
+7821
+Admiral Group PLC
+1893.75
+7945
+Anglo American PLC
+1695.5
+7777
+Antofagasta PLC
+952
+5691
+Ashtead Group PLC
+1956.75
+9947
+Associated British Foods PLC
+2460
+6207
+AstraZeneca PLC
+4865.25
+7873
+Aviva PLC
+513.7
+9574
+BAE Systems PLC
+583.5
+5484
+Barclays PLC
+214.92
+7084
+Barratt Developments PLC
+534.7
+6454
+Berkeley Group Holdings (Th...
+3814.5
+7654
+BHP Billiton PLC
+1398
+7971
+BP PLC
+463.05
+5892
+British American Tobacco PLC
+3926.5
+7261
+British Land Co PLC
+646.5
+8426
+BT Group PLC
+222.95
+5910
+Bunzl PLC
+2043.5
+9845
+Burberry Group PLC
+1678.25
+9165
+Carnival PLC
+4734
+9544
+Centrica PLC
+133.4
+6601
+Coca-Cola HBC AG
+2453.5
+8302
+Compass Group PLC
+1525.25
+8110
+CRH PLC
+2432
+6157
+Croda International PLC
+4579
+7487
+DCC PLC
+6687.5
+9482
+Diageo PLC
+2401.75
+7854
+Direct Line Insurance Group...
+390.5
+8196
+easyJet PLC
+1648.5
+7887
+EVRAZ PLC
+419.85
+9245
+Experian PLC
+1604.75
+9069
+Ferguson PLC
+5332
+5309
+Fresnillo PLC
+1167.25
+7527
+G4S PLC
+243.55
+9990
+GKN PLC
+426.3
+9927
+GlaxoSmithKline PLC
+1296.9
+7225
+Glencore PLC
+366.5
+7481
+Halma PLC
+1175.5
+7425
+Hargreaves Lansdown PLC
+1743
+6892
+HSBC Holdings PLC
+695.85
+9339
+Imperial Brands PLC
+2339.75
+5290
+Informa PLC
+719.2
+8675
+InterContinental Hotels Gro...
+4486
+6202
+International Consolidated ...
+622.4
+5404
+Intertek Group PLC
+4965.5
+6128
+ITV PLC
+144.42
+7070
+Johnson Matthey PLC
+3160
+8712
+Just Eat PLC
+706.6
+7705
+Kingfisher PLC
+313.25
+7673
+Land Securities Group PLC
+935.45
+9745
+Legal & General Group PLC
+262.95
+5736
+Lloyds Banking Group PLC
+67.93
+6318
+London Stock Exchange Group...
+4091
+7549
+Marks & Spencer Group PLC
+270.5
+7635
+Mediclinic International PLC
+574.4
+5446
+Micro Focus International PLC
+914.6
+9535
+Mondi PLC
+1920.75
+8508
+Morrison (Wm) Supermarkets PLC
+208.65
+6906
+National Grid PLC
+761.3
+6511
+Next PLC
+4675
+9403
+NMC Health PLC
+3406
+6597
+Old Mutual PLC
+247.05
+5691
+Paddy Power Betfair PLC
+7352.5
+6216
+Pearson PLC
+767.6
+5025
+Persimmon PLC
+2543
+6680
+Prudential PLC
+1896.5
+9552
+Randgold Resources Ltd
+5878
+5917
+Reckitt Benckiser Group PLC
+5660
+8288
+RELX PLC
+1469.75
+7585
+Rentokil Initial PLC
+269.05
+6080
+Rio Tinto PLC
+3650.75
+7093
+Rolls-Royce Holdings PLC
+890.7
+9111
+Royal Bank of Scotland Grou...
+262.6
+5987
+Royal Dutch Shell PLC
+2229.75
+8419
+Royal Mail PLC
+522.8
+6084
+RSA Insurance Group PLC
+635
+7700
+Sage Group (The) PLC
+665.5
+9879
+Sainsbury (J) PLC
+231.25
+8473
+Schroders PLC
+3386.5
+5447
+Scottish Mortgage Investmen...
+457.6
+5243
+Segro PLC
+611.6
+6646
+Severn Trent PLC
+1728.25
+6763
+Shire PLC
+3061
+9921
+Sky PLC
+1315.75
+8437
+Smith (DS) PLC
+485.75
+7529
+Smith & Nephew PLC
+1311.75
+5997
+Smiths Group PLC
+1544
+8822
+Smurfit Kappa Group PLC
+2967
+7483
+SSE PLC
+1225
+8447
+Standard Chartered PLC
+748.6
+5830
+Standard Life Aberdeen PLC
+375.25
+7342
+St James's Place PLC
+1126
+6289
+Taylor Wimpey PLC
+186.22
+6422
+Tesco PLC
+206.65
+8699
+TUI AG
+1541
+6583
+Unilever PLC
+3752.5
+9714
+United Utilities Group PLC
+680.2
+8542
+Vodafone Group PLC
+197.17
+6345
+Whitbread PLC
+3689
+8422
+WPP PLC
+1129.75
+9231
