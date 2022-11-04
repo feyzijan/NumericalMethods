@@ -1,12 +1,4 @@
 
-
-
-
-
-
-
-
-
 def FindMin(A): # A is a matrix
     Ra = range(0,len(A))
     Rb = range(0,len(A[0]))
